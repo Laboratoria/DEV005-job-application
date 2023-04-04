@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>10/04/2023</td>
     <td>
       <b>Kick off</b>
       <p>
