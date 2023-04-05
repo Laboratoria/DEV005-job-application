@@ -40,7 +40,7 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>11/04/2023</td>
     <td>
       <b>Autoconocimiento</b>
       <p>
@@ -55,10 +55,10 @@
       <ul>
         <li>Pre work del taller (slide 2 de la PPT del taller).</li>
         <li>
-          <a href="https://docs.google.com/presentation/d/1HzaNvB4koarDftWzCkBQD-phedSFVMKHOWopWfiiuI8/edit#slide=id.g108f9f34ebd_0_0">
+          <a href="https://docs.google.com/presentation/d/189zW3ViDLuLCAiNKNhjPwuE2yQ2KnfraPaNuxCOPpRU/edit#slide=id.g1e0d7a07137_0_0">
             Taller: Historia de vida y habilidades transferibles.
           </a>
-          <a href="https://docs.google.com/presentation/d/1DVkE0yc1u730u0S_mLrlTpzoZR_iQlnubma4hlgswKI/edit#slide=id.g10daaaee466_0_36">
+          <a href="https://docs.google.com/presentation/d/189zW3ViDLuLCAiNKNhjPwuE2yQ2KnfraPaNuxCOPpRU/edit#slide=id.g1e0d7a07137_0_8">
             (Pre-work)
           </a>
         </li>
@@ -74,7 +74,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>10/04/2023 al 01/05/2023</td>
     <td>
       <b>Preparación de CV y LinkedIn</b>
       <p>
@@ -125,7 +125,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>01/05/2023 al 12/05/2023</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -157,7 +157,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>10/04/2023</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
@@ -180,7 +180,7 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td rowspan="2"><!-- aqui la fecha --></td>
+    <td rowspan="2">08/05/2023</td>
     <td rowspan="2">
       <b>Sesión de revisión y feedback de CV + LinkedIn</b>
       <p>
@@ -232,7 +232,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana del 15/05/2023</td>
     <td>
     <b>Sesión de seguimiento a la incorporación de feedback de CV + LinkedIn</b>
       <p>
@@ -251,7 +251,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>29/05/2023 al 09/06/2023</td>
     <td>
       <b>Simulación de entrevista RH</b>
       <p>
@@ -310,7 +310,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>13/06/2023</td>
     <td>
       <b>Retrospectiva grupal de mentorías RH</b>
       <p>
@@ -328,7 +328,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>25/05/2023 y 08/06/2023</td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
@@ -348,7 +348,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>22/05/2023 al 02/06/2023</td>
     <td>
       <b>Preparación perfil Github</b>
       <p>
@@ -381,7 +381,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>05/06/2023</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
@@ -405,7 +405,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>19/06/2023 al 30/06/2023</td>
     <td>
       <b>Simulación de entrevista técnica </b>
       <p>
@@ -468,7 +468,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>06/07/2023</td>
     <td>
       <b>Retrospectiva grupal de mentorías Tech</b>
       <p>
@@ -487,7 +487,7 @@
   </tr>
   <tr>
     <td><b>Project Feedback</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>19/06/2023 al 15/07/2023</td>
     <td>
       <b>Project Feedback:</b>
       <p>
