@@ -87,15 +87,7 @@
       </p>
     </td>
     <td>
-      <ul>
-        <li>
-          <a href="https://www.loom.com/share/b682c1f7b7964641a5fe1b8acfcf4b8e">
-            Pildora: CV en la industria tech.
-          </a>
-          <a href="https://docs.google.com/presentation/d/1s77cJ8ILVCFefWNFzoyJova7s_Vlguz-rbeF50ck4t0/edit#slide=id.g108ff262332_0_0">
-            (PPT)
-          </a>
-        </li>
+      <ul>      
         <li>
           <a href="https://www.loom.com/share/8c43a7129e654962bb53ea1a74088a9b">
             Pildora:  Recomendaciones para crear tu perfil en LinkedIn
